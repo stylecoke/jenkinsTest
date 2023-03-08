@@ -1,7 +1,3 @@
 ## jenkinsTest
 
-```java
-import java.util.*;
-
-
-```
+jenkins build test
